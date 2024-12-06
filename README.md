@@ -62,4 +62,3 @@ python ip_checker.py
 可以透過以下方式與我聯絡
 - E-mail: ylwei6627@gmail.com
 
-...
